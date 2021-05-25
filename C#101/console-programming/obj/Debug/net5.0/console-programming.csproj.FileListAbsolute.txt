@@ -1,0 +1,16 @@
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\ref\console-programming.dll
+C:\Users\humeyra\Desktop\C#101\console-programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.csprojAssemblyReference.cache
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\ref\console-programming.dll
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\humeyra\Desktop\C#101\console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
