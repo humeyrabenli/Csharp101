@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\ref\variables.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\bin\Debug\net5.0\variables.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\ref\variables.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache
