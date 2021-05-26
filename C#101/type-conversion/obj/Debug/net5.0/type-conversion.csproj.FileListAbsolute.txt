@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\ref\type-conversion.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\bin\Debug\net5.0\type-conversion.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\ref\type-conversion.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\type-conversion\obj\Debug\net5.0\type-conversion.genruntimeconfig.cache
