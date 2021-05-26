@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\ref\if-else-if.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\bin\Debug\net5.0\if-else-if.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\ref\if-else-if.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\if-else-if\obj\Debug\net5.0\if-else-if.genruntimeconfig.cache
