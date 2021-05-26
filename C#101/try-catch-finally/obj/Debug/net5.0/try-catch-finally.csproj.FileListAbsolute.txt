@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\ref\try-catch-finally.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\bin\Debug\net5.0\try-catch-finally.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\ref\try-catch-finally.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\C#101\try-catch-finally\obj\Debug\net5.0\try-catch-finally.genruntimeconfig.cache
