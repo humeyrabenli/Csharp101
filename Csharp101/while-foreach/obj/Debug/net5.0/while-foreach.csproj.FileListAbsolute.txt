@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\ref\while-foreach.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
