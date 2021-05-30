@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\ref\arrays-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\bin\Debug\net5.0\arrays-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\ref\arrays-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrays-methods\obj\Debug\net5.0\arrays-methods.genruntimeconfig.cache
