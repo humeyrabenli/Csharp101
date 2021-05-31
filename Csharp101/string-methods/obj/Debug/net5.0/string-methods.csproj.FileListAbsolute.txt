@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\ref\string-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\bin\Debug\net5.0\string-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\ref\string-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\string-methods\obj\Debug\net5.0\string-methods.genruntimeconfig.cache
