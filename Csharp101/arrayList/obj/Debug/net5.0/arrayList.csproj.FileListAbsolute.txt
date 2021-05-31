@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\ref\arrayList.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\bin\Debug\net5.0\arrayList.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\ref\arrayList.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\arrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache
