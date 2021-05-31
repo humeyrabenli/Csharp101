@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\ref\datetime-math.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\bin\Debug\net5.0\datetime-math.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\ref\datetime-math.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\datetime-math\obj\Debug\net5.0\datetime-math.genruntimeconfig.cache
