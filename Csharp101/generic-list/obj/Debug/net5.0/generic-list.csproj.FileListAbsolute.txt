@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\ref\generic-list.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\bin\Debug\net5.0\generic-list.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\ref\generic-list.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\generic-list\obj\Debug\net5.0\generic-list.genruntimeconfig.cache
