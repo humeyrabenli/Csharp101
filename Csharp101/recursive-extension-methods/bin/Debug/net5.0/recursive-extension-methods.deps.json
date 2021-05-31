@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "recursive-extension-methods/1.0.0": {
+        "runtime": {
+          "recursive-extension-methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "recursive-extension-methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

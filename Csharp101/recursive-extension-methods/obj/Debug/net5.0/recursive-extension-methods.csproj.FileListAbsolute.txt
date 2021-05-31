@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\ref\recursive-extension-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\bin\Debug\net5.0\recursive-extension-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\ref\recursive-extension-methods.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\recursive-extension-methods\obj\Debug\net5.0\recursive-extension-methods.genruntimeconfig.cache
