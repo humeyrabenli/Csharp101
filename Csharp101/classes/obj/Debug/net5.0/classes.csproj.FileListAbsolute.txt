@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\ref\classes.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\bin\Debug\net5.0\classes.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\ref\classes.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\classes\obj\Debug\net5.0\classes.genruntimeconfig.cache
