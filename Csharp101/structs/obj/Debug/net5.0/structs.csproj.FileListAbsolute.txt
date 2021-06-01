@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\ref\structs.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\bin\Debug\net5.0\structs.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\ref\structs.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\structs\obj\Debug\net5.0\structs.genruntimeconfig.cache
