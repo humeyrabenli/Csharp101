@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
