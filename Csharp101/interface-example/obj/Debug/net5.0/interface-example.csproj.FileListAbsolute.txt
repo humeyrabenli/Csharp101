@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\ref\interface-example.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\bin\Debug\net5.0\interface-example.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\ref\interface-example.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\interface-example\obj\Debug\net5.0\interface-example.genruntimeconfig.cache
