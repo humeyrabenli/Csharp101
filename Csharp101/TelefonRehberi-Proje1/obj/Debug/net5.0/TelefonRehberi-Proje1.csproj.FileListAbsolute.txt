@@ -1,0 +1,16 @@
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.exe
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.deps.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.runtimeconfig.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.runtimeconfig.dev.json
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\ref\TelefonRehberi-Proje1.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\bin\Debug\net5.0\TelefonRehberi-Proje1.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.csprojAssemblyReference.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.AssemblyInfoInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.AssemblyInfo.cs
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\ref\TelefonRehberi-Proje1.dll
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.pdb
+C:\Users\humeyra\Documents\GitHub\Csharp101\Csharp101\TelefonRehberi-Proje1\obj\Debug\net5.0\TelefonRehberi-Proje1.genruntimeconfig.cache

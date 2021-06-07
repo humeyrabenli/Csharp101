@@ -1,0 +1,16 @@
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.exe
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.deps.json
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.runtimeconfig.json
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.runtimeconfig.dev.json
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.dll
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\ref\Proje1-TelefonRehberi.dll
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\bin\Debug\net5.0\Proje1-TelefonRehberi.pdb
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.csprojAssemblyReference.cache
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.AssemblyInfo.cs
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.dll
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\ref\Proje1-TelefonRehberi.dll
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.pdb
+C:\Users\humeyra\source\repos\Proje1-TelefonRehberi\Proje1-TelefonRehberi\obj\Debug\net5.0\Proje1-TelefonRehberi.genruntimeconfig.cache
