@@ -1,0 +1,16 @@
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.csprojAssemblyReference.cache
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.AssemblyInfoInputs.cache
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.AssemblyInfo.cs
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.exe
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.deps.json
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.runtimeconfig.json
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.runtimeconfig.dev.json
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.dll
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\ref\AlgoritmaSorulari.dll
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\bin\Debug\net5.0\AlgoritmaSorulari.pdb
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.dll
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\ref\AlgoritmaSorulari.dll
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.pdb
+C:\Users\humeyra\source\repos\AlgoritmaSorulari\AlgoritmaSorulari\obj\Debug\net5.0\AlgoritmaSorulari.genruntimeconfig.cache
