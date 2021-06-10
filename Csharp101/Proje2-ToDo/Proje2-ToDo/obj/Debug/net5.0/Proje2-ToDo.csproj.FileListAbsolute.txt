@@ -1,0 +1,16 @@
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.exe
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.deps.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.runtimeconfig.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.runtimeconfig.dev.json
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\ref\Proje2-ToDo.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\bin\Debug\net5.0\Proje2-ToDo.pdb
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.csprojAssemblyReference.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.AssemblyInfoInputs.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.AssemblyInfo.cs
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\ref\Proje2-ToDo.dll
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.pdb
+C:\Users\humeyra\source\repos\Kodluyoruz\BootCamp104\Proje2-ToDo\Proje2-ToDo\obj\Debug\net5.0\Proje2-ToDo.genruntimeconfig.cache
