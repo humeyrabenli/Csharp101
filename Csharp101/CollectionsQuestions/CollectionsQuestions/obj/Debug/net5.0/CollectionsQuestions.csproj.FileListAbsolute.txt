@@ -1,0 +1,16 @@
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.csprojAssemblyReference.cache
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.AssemblyInfoInputs.cache
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.AssemblyInfo.cs
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.csproj.CoreCompileInputs.cache
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.exe
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.deps.json
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.runtimeconfig.json
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.runtimeconfig.dev.json
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.dll
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\ref\CollectionsQuestions.dll
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\bin\Debug\net5.0\CollectionsQuestions.pdb
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.dll
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\ref\CollectionsQuestions.dll
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.pdb
+C:\Users\humeyra\source\repos\CollectionsQuestions\CollectionsQuestions\obj\Debug\net5.0\CollectionsQuestions.genruntimeconfig.cache
